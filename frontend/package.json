@@ -29,7 +29,6 @@
     "timeago.js": "^4.0.2"
   },
   "devDependencies": {
-    "@netlify/plugin-nextjs": "^4.11.1",
     "eslint": "8.13.0",
     "eslint-config-next": "12.1.5"
   }
