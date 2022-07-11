@@ -30,7 +30,6 @@
   },
   "devDependencies": {
     "eslint": "8.13.0",
-    "eslint-config-next": "12.1.5",
-    "netlify-plugin-cypress": "^2.2.0"
+    "eslint-config-next": "12.1.5"
   }
 }
