@@ -14,6 +14,7 @@ export default function Home() {
       <main className={styles.main}>
         <h3>Powered By CryptolisDAO</h3>
         <h1 className={styles.title}>Welcome to the world of exciting raffles</h1>
+        <h5>എന്താടാ മൈരേ നോക്കുന്നേ ? നമുക്ക് ആപ്പ് ഡെവലപ്പ് ചെയ്യണ്ടേ ??</h5>
       </main>
       <p className={styles.description}>Take your NFTs, split into tickets, sell !!</p>
     </div>
